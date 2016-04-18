@@ -1,5 +1,5 @@
 {
-  "name": "add-scroll-handler",
+  "name": "manage-scroll-handlers",
   "version": "0.0.0",
   "description": "Add a scroll handler to any DOM node. Doesn't block the event loop, and creates as few *actual* handlers as possible. 1460 bytes minified.",
   "homepage": "",
