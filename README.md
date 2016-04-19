@@ -1,5 +1,5 @@
-# add-scroll-handler [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
-> Add a scroll handler to any DOM node. Doesn&#39;t block the event loop, and creates as few *actual* handlers as possible.
+# manage-scroll-handlers [![NPM version][npm-image]][npm-url] [![Dependency Status][daviddm-image]][daviddm-url]
+> Add and remove scroll handlers to any DOM nodes. Doesn&#39;t block the event loop, and creates as few *actual* handlers as possible.
 
 ## Installation
 
@@ -45,7 +45,7 @@ var removeScrollHandler = manageScrollHandlers.removeScrollHandler;
 
 MIT © [Ben Berman](jygabyte.com)
 
-[npm-image]: https://badge.fury.io/js/add-scroll-handler.svg
-[npm-url]: https://npmjs.org/package/add-scroll-handler
-[daviddm-image]: https://david-dm.org/rivertam/add-scroll-handler.svg?theme=shields.io
-[daviddm-url]: https://david-dm.org/rivertam/add-scroll-handler
+[npm-image]: https://badge.fury.io/js/manage-scroll-handlers.svg
+[npm-url]: https://npmjs.org/package/manage-scroll-handlers
+[daviddm-image]: https://david-dm.org/rivertam/manage-scroll-handlers.svg?theme=shields.io
+[daviddm-url]: https://david-dm.org/rivertam/manage-scroll-handlers
